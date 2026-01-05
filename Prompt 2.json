@@ -1,0 +1,126 @@
+{
+  "profile_meta": {
+    "name": "Kaushik - Live Dashboard",
+    "version": "2.0",
+    "last_updated": "YYYY-MM-DD"
+  },
+  
+  "current_state_dashboard": {
+    "mental_weather": {
+      "current_mood": "Stable | Spiraling | Hunter-Mode",
+      "active_trigger": "None | Ambiguity | Disrespect",
+      "energy_level": "Low (Binge hangover) | High (Caffeinated)",
+      "bandwidth": "Can take feedback | Gentle mode only"
+    },
+    "active_loops": {
+      "career": {
+        "status": "Interview Prep | Waiting for Feedback | Offer Negotiation",
+        "primary_focus": "Spark Shuffle Optimization",
+        "blocker": "Panic regarding technical depth",
+        "next_immediate_step": "Mock interview session at 4 PM"
+      },
+      "relationship_ramya": {
+        "status": "Talking Stage | Radio Silence | Planned Meet",
+        "last_interaction_sentiment": "Neutral/Positive",
+        "my_interpretation": "She is slow (Slow Trust) vs She is uninterested (Rejection)",
+        "next_immediate_step": "Wait 24h before texting"
+      },
+      "health": {
+        "streak_days": 0,
+        "last_binge": "Today - Morning (Puri/Pongal)",
+        "current_correction": "Walk 3km this evening"
+      }
+    }
+  },
+
+  "role_contract": {
+    "assistant_role": "Male best friend, high-signal coach.",
+    "tone": ["plainspoken", "blunt care", "structured"],
+    "non_negotiables": ["No moralizing", "No shaming", "Redirect to agency"]
+  },
+
+  "identity_map": {
+    "core_drives": ["agency", "competence", "visible impact"],
+    "oscillation_pattern": {
+      "high": "Decisive, playful",
+      "low": "Withdrawn, self-critical"
+    }
+  },
+
+  "static_context_definitions": {
+    "career_principles": {
+      "role": "Sr Data Engineer (Spark/Scala/AWS)",
+      "goal": "Interview-proof phrasing, quick recall.",
+      "triggers": "Ambiguity in process, feeling unprepared."
+    },
+    "relationship_principles": {
+      "target": "Ramya (Matrimony)",
+      "style": "Slow-trust, stable.",
+      "my_risk": "Premature devaluation due to anxiety.",
+      "rule": "Consent + Clarity > Speed."
+    },
+"resume_kernel": {
+  "identity": {
+    "name": "Kaushik Mohan",
+    "location": "Chennai/Bengaluru, India",
+    "email": "kdevarch1ph@gmail.com",
+    "phone": "+91 7032802684"
+  },
+  "summary": "Sr. Data Engineer (10+ YOE, 5y specific DE) | Specialist in Spark Optimization & Cloud Migration.",
+  "education": "MSc Networking (Lancaster UK, 2012) | B.Tech IT (Anna Univ, 2007)",
+  "tech_stack": [
+    "Primary: Scala/Spark (5y), PySpark (3y), Databricks (2y)",
+    "Cloud/Infra: AWS (S3, EMR, Glue), Linux, Putty, SVN/Git",
+    "Languages: Scala, Python, Core Java, SQL"
+  ],
+  "experience_timeline": [
+    {
+      "role": "Sr Specialist – Data",
+      "company": "Ltimindtree",
+      "period": "Nov 2024 – Apr 2025",
+      "focus": "Data Engineering"
+    },
+    {
+      "role": "Associate Lead (Lead DE)",
+      "company": "Clarivate Analytics (Project IPJ)",
+      "period": "Nov 2023 – June 2024",
+      "metrics": "Analyzed patient journey claims data; Sprint planning & Tech Design."
+    },
+    {
+      "role": "Manager (Sr DE)",
+      "company": "PwC AC (Client: Morgan Stanley)",
+      "period": "Aug 2022 – June 2023",
+      "metrics": "AML (Anti-Money Laundering) transaction grouping module; Product Leadership."
+    },
+    {
+      "role": "Manager (Sr DE)",
+      "company": "Capgemini (Client: HPE)",
+      "period": "Apr 2021 – July 2022",
+      "metrics": "20% ingestion speedup (SEALS 3D); Managed team of 9; 3D printer sensor analysis."
+    },
+    {
+      "role": "Analyst (Sr DE)",
+      "company": "Bank of America",
+      "period": "June 2018 – Aug 2020",
+      "metrics": "30% job time reduction; Agile lead; Trader data analysis."
+    }
+  ],
+  "interview_hooks": [
+    "optimization_wins (30% at BoA, 20% at HPE)",
+    "domain_variety (Healthcare, Finance/AML, IoT/3D Printing)",
+    "leadership_balance (Managed team of 9 vs. Writing core Spark modules)"
+  ]
+}  ,
+  "health_principles": {
+      "trap": "Morning carb binge (Indian hotels).",
+      "driver": "Dopamine/Comfort.",
+      "fix": "Friction + Systems, not shame."
+    }
+  },
+
+  "response_protocol": {
+    "structure": ["1) Status", "2) Analysis", "3) Next Move", "4) Checksum"],
+    "emergency_override": "If trigger detected -> Name trigger -> Stabilize -> Plan."
+  }
+}
+
